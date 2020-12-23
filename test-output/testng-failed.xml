@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
-  <test thread-count="5" name="Default test(failed)">
+  <test name="Default test(failed)">
     <classes>
-      <class name="com.OrangeHRM.SikuliFileUpload">
+      <class name="com.OrangeHRM.UI.Example1_Focused">
         <methods>
-          <include name="FileUpload_UsingSikuli"/>
+          <include name="Login_Edit_Focus"/>
+          <include name="Google_Search_Focus"/>
         </methods>
-      </class> <!-- com.OrangeHRM.SikuliFileUpload -->
+      </class> <!-- com.OrangeHRM.UI.Example1_Focused -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
