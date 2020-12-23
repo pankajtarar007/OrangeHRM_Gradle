@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31620" started-at="2020-12-22T05:06:07Z" finished-at="2020-12-22T05:06:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31620" started-at="2020-12-22T05:06:07Z" finished-at="2020-12-22T05:06:38Z">
+      <class name="com.OrangeHRM.SikuliFileUpload">
+        <test-method status="PASS" signature="FileUpload_UsingSikuli()[pri:0, instance:com.OrangeHRM.SikuliFileUpload@3fee9989]" name="FileUpload_UsingSikuli" duration-ms="31539" started-at="2020-12-22T05:06:07Z" finished-at="2020-12-22T05:06:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FileUpload_UsingSikuli -->
+      </class> <!-- com.OrangeHRM.SikuliFileUpload -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
